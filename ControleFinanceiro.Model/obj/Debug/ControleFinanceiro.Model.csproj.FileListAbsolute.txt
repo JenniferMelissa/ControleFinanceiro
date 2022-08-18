@@ -1,0 +1,6 @@
+C:\Users\Aluno\Desktop\Nova pasta (2)\ControleFinanceiro\ControleFinanceiro.Model\bin\Debug\ControleFinanceiro.Model.dll
+C:\Users\Aluno\Desktop\Nova pasta (2)\ControleFinanceiro\ControleFinanceiro.Model\bin\Debug\ControleFinanceiro.Model.pdb
+C:\Users\Aluno\Desktop\Nova pasta (2)\ControleFinanceiro\ControleFinanceiro.Model\obj\Debug\ControleFinanceiro.Model.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta (2)\ControleFinanceiro\ControleFinanceiro.Model\obj\Debug\ControleFinanceiro.Model.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta (2)\ControleFinanceiro\ControleFinanceiro.Model\obj\Debug\ControleFinanceiro.Model.dll
+C:\Users\Aluno\Desktop\Nova pasta (2)\ControleFinanceiro\ControleFinanceiro.Model\obj\Debug\ControleFinanceiro.Model.pdb
